@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+h5{
+    color: rgb(97, 94, 94);
+    text-align: center;
+    font-family: cursive;
+}
+.carousel-inner img{
+    padding: 10px;
+    height: 80vh;
+    width: 60vw;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 40px;
+}
+.card{
+    margin:20px;
+    background-color: black;
+    color: rgb(121, 125, 128);
+    border-color: rgb(58, 58, 58);
+    height: 250PX;
+    width: 250PX;
+}
+h1{
+    color: rgb(134, 125, 111);
+    margin: 20px;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.ionicon{
+    height: 30px;
+    width: 30px;
+}
+
+
